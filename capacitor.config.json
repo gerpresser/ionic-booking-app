@@ -1,0 +1,7 @@
+{
+  "appId": "com.course.app",
+  "appName": "App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
